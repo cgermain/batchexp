@@ -1,0 +1,20 @@
+[
+  {
+    "experiment": "exp1",
+    "inverse_file": "inverse_file_1.txt",
+    "summary_file": "C:\\Users\\summary_file_1.txt",
+    "mgf": [
+      "file1.mgf",
+      "file2.mgf"
+    ]
+  },
+  {
+    "experiment": "exp2",
+    "inverse_file": "inverse_file_3.txt",
+    "summary_file": "C:\\Users\\summary_file_2.txt",
+    "mgf": [
+      "file3.mgf",
+      "file4.mgf"
+    ]
+  }
+]
