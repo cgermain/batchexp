@@ -242,7 +242,7 @@ def read_intensities_from_summary_and_normalize():
 def print_end_time(start_time):
 	total_time = time.time()-start_time
 	if total_time > 60:
-		print " - " + str(total_time) + " mins"
+		print " - " + str(total_time/60) + " mins"
 	else:
 		print " - " + str(total_time) + " secs"
 
